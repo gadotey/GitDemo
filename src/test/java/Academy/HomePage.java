@@ -37,6 +37,7 @@ public class HomePage extends base{
 		LoginPage lp=new LoginPage(driver);
 		lp.getEmail().sendKeys(Username);
 		lp.getPassword().sendKeys(Password);
+		System.out.println("just kidding aournd");
 
 		log.info(text);
 		
