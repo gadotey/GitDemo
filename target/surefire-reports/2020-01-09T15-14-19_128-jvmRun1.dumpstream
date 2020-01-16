@@ -1,0 +1,262 @@
+# Created on 2020-01-09T15:14:42.222
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:386)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+# Created on 2020-01-09T15:14:45.230
+Unexpected IOException with stream: [
+
+# Created on 2020-01-09T15:14:45.249
+Unexpected IOException with stream: 1
+
+# Created on 2020-01-09T15:14:45.266
+Unexpected IOException with stream: 5
+
+# Created on 2020-01-09T15:14:45.271
+Unexpected IOException with stream: 7
+
+# Created on 2020-01-09T15:14:45.277
+Unexpected IOException with stream: 8
+
+# Created on 2020-01-09T15:14:45.283
+Unexpected IOException with stream: 6
+
+# Created on 2020-01-09T15:14:45.288
+Unexpected IOException with stream: 0
+
+# Created on 2020-01-09T15:14:45.294
+Unexpected IOException with stream: 0
+
+# Created on 2020-01-09T15:14:45.300
+Unexpected IOException with stream: 8
+
+# Created on 2020-01-09T15:14:45.306
+Unexpected IOException with stream: 8
+
+# Created on 2020-01-09T15:14:45.311
+Unexpected IOException with stream: 5
+
+# Created on 2020-01-09T15:14:45.316
+Unexpected IOException with stream: .
+
+# Created on 2020-01-09T15:14:45.322
+Unexpected IOException with stream: 2
+
+# Created on 2020-01-09T15:14:45.327
+Unexpected IOException with stream: 2
+
+# Created on 2020-01-09T15:14:45.333
+Unexpected IOException with stream: 7
+
+# Created on 2020-01-09T15:14:45.338
+Unexpected IOException with stream: ]
+
+# Created on 2020-01-09T15:14:45.344
+Unexpected IOException with stream: [
+
+# Created on 2020-01-09T15:14:45.350
+Unexpected IOException with stream: W
+
+# Created on 2020-01-09T15:14:45.355
+Unexpected IOException with stream: A
+
+# Created on 2020-01-09T15:14:45.361
+Unexpected IOException with stream: R
+
+# Created on 2020-01-09T15:14:45.366
+Unexpected IOException with stream: N
+
+# Created on 2020-01-09T15:14:45.372
+Unexpected IOException with stream: I
+
+# Created on 2020-01-09T15:14:45.377
+Unexpected IOException with stream: N
+
+# Created on 2020-01-09T15:14:45.382
+Unexpected IOException with stream: G
+
+# Created on 2020-01-09T15:14:45.388
+Unexpected IOException with stream: ]
+
+# Created on 2020-01-09T15:14:45.394
+Unexpected IOException with stream: :
+
+# Created on 2020-01-09T15:14:45.400
+Unexpected IOException with stream:  
+
+# Created on 2020-01-09T15:14:45.405
+Unexpected IOException with stream: T
+
+# Created on 2020-01-09T15:14:45.411
+Unexpected IOException with stream: i
+
+# Created on 2020-01-09T15:14:45.417
+Unexpected IOException with stream: m
+
+# Created on 2020-01-09T15:14:45.422
+Unexpected IOException with stream: e
+
+# Created on 2020-01-09T15:14:45.428
+Unexpected IOException with stream: d
+
+# Created on 2020-01-09T15:14:45.434
+Unexpected IOException with stream:  
+
+# Created on 2020-01-09T15:14:45.440
+Unexpected IOException with stream: o
+
+# Created on 2020-01-09T15:14:45.446
+Unexpected IOException with stream: u
+
+# Created on 2020-01-09T15:14:45.452
+Unexpected IOException with stream: t
+
+# Created on 2020-01-09T15:14:45.458
+Unexpected IOException with stream:  
+
+# Created on 2020-01-09T15:14:45.464
+Unexpected IOException with stream: c
+
+# Created on 2020-01-09T15:14:45.470
+Unexpected IOException with stream: o
+
+# Created on 2020-01-09T15:14:45.475
+Unexpected IOException with stream: n
+
+# Created on 2020-01-09T15:14:45.481
+Unexpected IOException with stream: n
+
+# Created on 2020-01-09T15:14:45.487
+Unexpected IOException with stream: e
+
+# Created on 2020-01-09T15:14:45.493
+Unexpected IOException with stream: c
+
+# Created on 2020-01-09T15:14:45.499
+Unexpected IOException with stream: t
+
+# Created on 2020-01-09T15:14:45.504
+Unexpected IOException with stream: i
+
+# Created on 2020-01-09T15:14:45.510
+Unexpected IOException with stream: n
+
+# Created on 2020-01-09T15:14:45.517
+Unexpected IOException with stream: g
+
+# Created on 2020-01-09T15:14:45.523
+Unexpected IOException with stream:  
+
+# Created on 2020-01-09T15:14:45.530
+Unexpected IOException with stream: t
+
+# Created on 2020-01-09T15:14:45.536
+Unexpected IOException with stream: o
+
+# Created on 2020-01-09T15:14:45.543
+Unexpected IOException with stream:  
+
+# Created on 2020-01-09T15:14:45.550
+Unexpected IOException with stream: C
+
+# Created on 2020-01-09T15:14:45.556
+Unexpected IOException with stream: h
+
+# Created on 2020-01-09T15:14:45.562
+Unexpected IOException with stream: r
+
+# Created on 2020-01-09T15:14:45.568
+Unexpected IOException with stream: o
+
+# Created on 2020-01-09T15:14:45.575
+Unexpected IOException with stream: m
+
+# Created on 2020-01-09T15:14:45.581
+Unexpected IOException with stream: e
+
+# Created on 2020-01-09T15:14:45.587
+Unexpected IOException with stream: ,
+
+# Created on 2020-01-09T15:14:45.594
+Unexpected IOException with stream:  
+
+# Created on 2020-01-09T15:14:45.600
+Unexpected IOException with stream: r
+
+# Created on 2020-01-09T15:14:45.606
+Unexpected IOException with stream: e
+
+# Created on 2020-01-09T15:14:45.612
+Unexpected IOException with stream: t
+
+# Created on 2020-01-09T15:14:45.619
+Unexpected IOException with stream: r
+
+# Created on 2020-01-09T15:14:45.625
+Unexpected IOException with stream: y
+
+# Created on 2020-01-09T15:14:45.631
+Unexpected IOException with stream: i
+
+# Created on 2020-01-09T15:14:45.638
+Unexpected IOException with stream: n
+
+# Created on 2020-01-09T15:14:45.644
+Unexpected IOException with stream: g
+
+# Created on 2020-01-09T15:14:45.650
+Unexpected IOException with stream: .
+
+# Created on 2020-01-09T15:14:45.657
+Unexpected IOException with stream: .
+
+# Created on 2020-01-09T15:14:45.663
+Unexpected IOException with stream: .
+
+# Created on 2020-01-09T15:14:45.669
+Unexpected IOException with stream: 
+
+# Created on 2020-01-09T15:14:45.675
+Unexpected IOException with stream: 
+
+
+# Created on 2020-01-09T15:14:47.250
+Unexpected IOException with stream: Jan 09, 2020 3:14:47 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+
+
+# Created on 2020-01-09T15:14:48.014
+Unexpected IOException: 5,1,Academy.validateTitle,validateAppTitle(Academy.validateTitle),Academy.validateTitle,null,null
+
+
+# Created on 2020-01-09T15:14:48.046
+Unexpected IOException with stream: Jan 09, 2020 3:14:48 PM org.openqa.selenium.remote.ErrorCodes toStatus
+INFO: HTTP Status: '404' -> incorrect JSON status mapping for 'no such window' (400 expected)
+
+
+# Created on 2020-01-09T15:14:48.104
+Unexpected IOException: 8,1,Academy.validateTitle,validateAppTitle(Academy.validateTitle),null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=79.0.3945.88)\000ABuild info: version: '3.4.0'\002C revision: 'unknown'\002C time: 'unknown'\000ASystem info: host: 'DESKTOP-LFC58B3'\002C ip: '192.168.56.1'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_211'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities [{networkConnectionEnabled=false\002C chrome={chromedriverVersion=79.0.3945.36 (3582db32b33893869b8c1339e8f4d9ed1816f143-refs/branch-heads/3945@{#614})\002C userDataDir=C:\005CUsers\005CGadotey\005CAppData\005CLocal\005CTemp\005Cscoped_dir11840_1873679853}\002C timeouts={implicit=0.0\002C pageLoad=300000.0\002C script=30000.0}\002C pageLoadStrategy=normal\002C unhandledPromptBehavior=dismiss and notify\002C strictFileInteractability=false\002C platform=ANY\002C proxy=Proxy()\002C goog:chromeOptions={debuggerAddress=localhost:54137}\002C acceptInsecureCerts=false\002C browserVersion=79.0.3945.88\002C browserName=chrome\002C javascriptEnabled=true\002C platformName=windows\002C setWindowRect=true}]\000ASession ID: 65ea4f70156c266d1b6a4fe30d0d66f5\000A*** Element info: {Using=css selector\002C value=.text-center>h2},null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=79.0.3945.88)\000ABuild info: version: '3.4.0'\002C revision: 'unknown'\002C time: 'unknown'\000ASystem info: host: 'DESKTOP-LFC58B3'\002C ip: '192.168.56.1'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_211'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities [{networkConnectionEnabled=false\002C chrome={chromedriverVersion=79.0.3945.36 (3582db32b33893869b8c1339e8f4d9ed1816f143-refs/branch-heads/3945@{#614})\002C userDataDir=C:\005CUsers\005CGadotey\005CAppData\005CLocal\005CTemp\005Cscoped_dir11840_1873679853}\002C timeouts={implicit=0.0\002C pageLoad=300000.0\002C script=30000.0}\002C pageLoadStrategy=normal\002C unhandledPromptBehavior=dismiss and notify\002C strictFileInteractability=false\002C platform=ANY\002C proxy=Proxy()\002C goog:chromeOptions={debuggerAddress=localhost:54137}\002C acceptInsecureCerts=false\002C browserVersion=79.0.3945.88\002C browserName=chrome\002C javascriptEnabled=true\002C platformName=windows\002C setWindowRect=true}]\000ASession ID: 65ea4f70156c266d1b6a4fe30d0d66f5\000A*** Element info: {Using=css selector\002C value=.text-center>h2},validateTitle.validateAppTitle:37 \00BB NoSuchWindow no such window: target window...,org.openqa.selenium.NoSuchWindowException: \000Ano such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=79.0.3945.88)\000ABuild info: version: '3.4.0'\002C revision: 'unknown'\002C time: 'unknown'\000ASystem info: host: 'DESKTOP-LFC58B3'\002C ip: '192.168.56.1'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_211'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities [{networkConnectionEnabled=false\002C chrome={chromedriverVersion=79.0.3945.36 (3582db32b33893869b8c1339e8f4d9ed1816f143-refs/branch-heads/3945@{#614})\002C userDataDir=C:\005CUsers\005CGadotey\005CAppData\005CLocal\005CTemp\005Cscoped_dir11840_1873679853}\002C timeouts={implicit=0.0\002C pageLoad=300000.0\002C script=30000.0}\002C pageLoadStrategy=normal\002C unhandledPromptBehavior=dismiss and notify\002C strictFileInteractability=false\002C platform=ANY\002C proxy=Proxy()\002C goog:chromeOptions={debuggerAddress=localhost:54137}\002C acceptInsecureCerts=false\002C browserVersion=79.0.3945.88\002C browserName=chrome\002C javascriptEnabled=true\002C platformName=windows\002C setWindowRect=true}]\000ASession ID: 65ea4f70156c266d1b6a4fe30d0d66f5\000A*** Element info: {Using=css selector\002C value=.text-center>h2}\000A\0009at Academy.validateTitle.validateAppTitle(validateTitle.java:37)\000A
+
+
+# Created on 2020-01-09T15:14:48.147
+Unexpected IOException with stream: Jan 09, 2020 3:14:48 PM org.openqa.selenium.remote.ErrorCodes toStatus
+INFO: HTTP Status: '404' -> incorrect JSON status mapping for 'no such window' (400 expected)
+
+
+# Created on 2020-01-09T15:14:48.162
+Unexpected IOException: 8,1,Academy.validateTitle,validateAppTitle(Academy.validateTitle),null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=79.0.3945.88)\000ABuild info: version: '3.4.0'\002C revision: 'unknown'\002C time: 'unknown'\000ASystem info: host: 'DESKTOP-LFC58B3'\002C ip: '192.168.56.1'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_211'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities [{networkConnectionEnabled=false\002C chrome={chromedriverVersion=79.0.3945.36 (3582db32b33893869b8c1339e8f4d9ed1816f143-refs/branch-heads/3945@{#614})\002C userDataDir=C:\005CUsers\005CGadotey\005CAppData\005CLocal\005CTemp\005Cscoped_dir11840_1873679853}\002C timeouts={implicit=0.0\002C pageLoad=300000.0\002C script=30000.0}\002C pageLoadStrategy=normal\002C unhandledPromptBehavior=dismiss and notify\002C strictFileInteractability=false\002C platform=ANY\002C proxy=Proxy()\002C goog:chromeOptions={debuggerAddress=localhost:54137}\002C acceptInsecureCerts=false\002C browserVersion=79.0.3945.88\002C browserName=chrome\002C javascriptEnabled=true\002C platformName=windows\002C setWindowRect=true}]\000ASession ID: 65ea4f70156c266d1b6a4fe30d0d66f5,null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=79.0.3945.88)\000ABuild info: version: '3.4.0'\002C revision: 'unknown'\002C time: 'unknown'\000ASystem info: host: 'DESKTOP-LFC58B3'\002C ip: '192.168.56.1'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_211'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities [{networkConnectionEnabled=false\002C chrome={chromedriverVersion=79.0.3945.36 (3582db32b33893869b8c1339e8f4d9ed1816f143-refs/branch-heads/3945@{#614})\002C userDataDir=C:\005CUsers\005CGadotey\005CAppData\005CLocal\005CTemp\005Cscoped_dir11840_1873679853}\002C timeouts={implicit=0.0\002C pageLoad=300000.0\002C script=30000.0}\002C pageLoadStrategy=normal\002C unhandledPromptBehavior=dismiss and notify\002C strictFileInteractability=false\002C platform=ANY\002C proxy=Proxy()\002C goog:chromeOptions={debuggerAddress=localhost:54137}\002C acceptInsecureCerts=false\002C browserVersion=79.0.3945.88\002C browserName=chrome\002C javascriptEnabled=true\002C platformName=windows\002C setWindowRect=true}]\000ASession ID: 65ea4f70156c266d1b6a4fe30d0d66f5,validateTitle>base.getScreenshot:61 \00BB NoSuchWindow no such window: target wind...,org.openqa.selenium.NoSuchWindowException: \000Ano such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=79.0.3945.88)\000ABuild info: version: '3.4.0'\002C revision: 'unknown'\002C time: 'unknown'\000ASystem info: host: 'DESKTOP-LFC58B3'\002C ip: '192.168.56.1'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_211'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities [{networkConnectionEnabled=false\002C chrome={chromedriverVersion=79.0.3945.36 (3582db32b33893869b8c1339e8f4d9ed1816f143-refs/branch-heads/3945@{#614})\002C userDataDir=C:\005CUsers\005CGadotey\005CAppData\005CLocal\005CTemp\005Cscoped_dir11840_1873679853}\002C timeouts={implicit=0.0\002C pageLoad=300000.0\002C script=30000.0}\002C pageLoadStrategy=normal\002C unhandledPromptBehavior=dismiss and notify\002C strictFileInteractability=false\002C platform=ANY\002C proxy=Proxy()\002C goog:chromeOptions={debuggerAddress=localhost:54137}\002C acceptInsecureCerts=false\002C browserVersion=79.0.3945.88\002C browserName=chrome\002C javascriptEnabled=true\002C platformName=windows\002C setWindowRect=true}]\000ASession ID: 65ea4f70156c266d1b6a4fe30d0d66f5\000A
+
+
+# Created on 2020-01-09T15:14:48.180
+Unexpected IOException with stream: Jan 09, 2020 3:14:48 PM org.openqa.selenium.remote.ErrorCodes toStatus
+INFO: HTTP Status: '404' -> incorrect JSON status mapping for 'no such window' (400 expected)
+
+
+# Created on 2020-01-09T15:14:52.211
+Unexpected IOException: 8,1,Academy.validateTitle,teardown(Academy.validateTitle),null,chrome not reachable\000A  (Session info: chrome=79.0.3945.88)\000ABuild info: version: '3.4.0'\002C revision: 'unknown'\002C time: 'unknown'\000ASystem info: host: 'DESKTOP-LFC58B3'\002C ip: '192.168.56.1'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_211'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities [{networkConnectionEnabled=false\002C chrome={chromedriverVersion=79.0.3945.36 (3582db32b33893869b8c1339e8f4d9ed1816f143-refs/branch-heads/3945@{#614})\002C userDataDir=C:\005CUsers\005CGadotey\005CAppData\005CLocal\005CTemp\005Cscoped_dir11840_1873679853}\002C timeouts={implicit=0.0\002C pageLoad=300000.0\002C script=30000.0}\002C pageLoadStrategy=normal\002C unhandledPromptBehavior=dismiss and notify\002C strictFileInteractability=false\002C platform=ANY\002C proxy=Proxy()\002C goog:chromeOptions={debuggerAddress=localhost:54137}\002C acceptInsecureCerts=false\002C browserVersion=79.0.3945.88\002C browserName=chrome\002C javascriptEnabled=true\002C platformName=windows\002C setWindowRect=true}]\000ASession ID: 65ea4f70156c266d1b6a4fe30d0d66f5,null,chrome not reachable\000A  (Session info: chrome=79.0.3945.88)\000ABuild info: version: '3.4.0'\002C revision: 'unknown'\002C time: 'unknown'\000ASystem info: host: 'DESKTOP-LFC58B3'\002C ip: '192.168.56.1'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_211'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities [{networkConnectionEnabled=false\002C chrome={chromedriverVersion=79.0.3945.36 (3582db32b33893869b8c1339e8f4d9ed1816f143-refs/branch-heads/3945@{#614})\002C userDataDir=C:\005CUsers\005CGadotey\005CAppData\005CLocal\005CTemp\005Cscoped_dir11840_1873679853}\002C timeouts={implicit=0.0\002C pageLoad=300000.0\002C script=30000.0}\002C pageLoadStrategy=normal\002C unhandledPromptBehavior=dismiss and notify\002C strictFileInteractability=false\002C platform=ANY\002C proxy=Proxy()\002C goog:chromeOptions={debuggerAddress=localhost:54137}\002C acceptInsecureCerts=false\002C browserVersion=79.0.3945.88\002C browserName=chrome\002C javascriptEnabled=true\002C platformName=windows\002C setWindowRect=true}]\000ASession ID: 65ea4f70156c266d1b6a4fe30d0d66f5,validateTitle.teardown:49 \00BB WebDriver chrome not reachable\000A  (Session info: ch...,org.openqa.selenium.WebDriverException: \000Achrome not reachable\000A  (Session info: chrome=79.0.3945.88)\000ABuild info: version: '3.4.0'\002C revision: 'unknown'\002C time: 'unknown'\000ASystem info: host: 'DESKTOP-LFC58B3'\002C ip: '192.168.56.1'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_211'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities [{networkConnectionEnabled=false\002C chrome={chromedriverVersion=79.0.3945.36 (3582db32b33893869b8c1339e8f4d9ed1816f143-refs/branch-heads/3945@{#614})\002C userDataDir=C:\005CUsers\005CGadotey\005CAppData\005CLocal\005CTemp\005Cscoped_dir11840_1873679853}\002C timeouts={implicit=0.0\002C pageLoad=300000.0\002C script=30000.0}\002C pageLoadStrategy=normal\002C unhandledPromptBehavior=dismiss and notify\002C strictFileInteractability=false\002C platform=ANY\002C proxy=Proxy()\002C goog:chromeOptions={debuggerAddress=localhost:54137}\002C acceptInsecureCerts=false\002C browserVersion=79.0.3945.88\002C browserName=chrome\002C javascriptEnabled=true\002C platformName=windows\002C setWindowRect=true}]\000ASession ID: 65ea4f70156c266d1b6a4fe30d0d66f5\000A\0009at Academy.validateTitle.teardown(validateTitle.java:49)\000A
+
+
