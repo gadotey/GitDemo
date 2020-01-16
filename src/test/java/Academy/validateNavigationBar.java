@@ -42,7 +42,8 @@ public void initialize() throws IOException
 	    log.info("Navigation Bar is displayed");
 		 System.out.println("Test completed");
 	 //   Assert.assertFalse(false);
-		;
+		 System.out.println("Web Automation");
+		System.out.println("Browser Automation");
 	
 		
 		}
