@@ -13,6 +13,7 @@ base b=new base();
 	public void onFinish(ITestContext arg0) {
 		// TODO Auto-generated method stub
 		//hey i am done
+		System.out.println("This mark the new Finish");
 	}
 
 	public void onStart(ITestContext arg0) {
@@ -22,12 +23,13 @@ base b=new base();
 
 	public void onTestFailedButWithinSuccessPercentage(ITestResult arg0) {
 		// TODO Auto-generated method stub
-		
+		System.out.println("This mark the new Finish");
 	}
 
 	public void onTestFailure(ITestResult result) {
 		// TODO Auto-generated method stub
 		//screenshot
+		System.out.println("This mark the new Finish");
 
 		try {
 			b.getScreenshot(result.getName());
