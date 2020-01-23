@@ -13,26 +13,20 @@
           <include name="initialize"/>
         </methods>
       </class> <!-- Academy.HomePage -->
-      <class name="Academy.validateTitle">
-        <methods>
-          <include name="initialize"/>
-        </methods>
-      </class> <!-- Academy.validateTitle -->
       <class name="Academy.validateNavigationBar">
         <methods>
           <include name="initialize"/>
         </methods>
       </class> <!-- Academy.validateNavigationBar -->
+      <class name="Academy.validateTitle">
+        <methods>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- Academy.validateTitle -->
     </classes>
   </test> <!-- Validating User login(failed) -->
   <test name="Validating title in the Page(failed)">
     <classes>
-      <class name="Academy.validateTitle">
-        <methods>
-          <include name="validateAppTitle"/>
-          <include name="initialize"/>
-        </methods>
-      </class> <!-- Academy.validateTitle -->
       <class name="Academy.HomePage">
         <methods>
           <include name="initialize"/>
@@ -43,6 +37,12 @@
           <include name="initialize"/>
         </methods>
       </class> <!-- Academy.validateNavigationBar -->
+      <class name="Academy.validateTitle">
+        <methods>
+          <include name="validateAppTitle"/>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- Academy.validateTitle -->
     </classes>
   </test> <!-- Validating title in the Page(failed) -->
   <test name="Validating navigation Bar(failed)">
@@ -52,17 +52,17 @@
           <include name="initialize"/>
         </methods>
       </class> <!-- Academy.HomePage -->
-      <class name="Academy.validateTitle">
-        <methods>
-          <include name="initialize"/>
-        </methods>
-      </class> <!-- Academy.validateTitle -->
       <class name="Academy.validateNavigationBar">
         <methods>
           <include name="initialize"/>
           <include name="validateAppNavBar"/>
         </methods>
       </class> <!-- Academy.validateNavigationBar -->
+      <class name="Academy.validateTitle">
+        <methods>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- Academy.validateTitle -->
     </classes>
   </test> <!-- Validating navigation Bar(failed) -->
 </suite> <!-- Failed suite [Suite] -->
