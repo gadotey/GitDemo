@@ -2,16 +2,16 @@
 <testng-results skipped="4" failed="0" total="4" passed="0">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="138" started-at="2020-01-10T19:10:28Z" finished-at="2020-01-10T19:10:28Z">
+  <suite name="Suite" duration-ms="123" started-at="2020-01-23T20:57:19Z" finished-at="2020-01-23T20:57:19Z">
     <groups>
     </groups>
-    <test name="Validating User login" duration-ms="37" started-at="2020-01-10T19:10:28Z" finished-at="2020-01-10T19:10:28Z">
+    <test name="Validating User login" duration-ms="27" started-at="2020-01-23T20:57:19Z" finished-at="2020-01-23T20:57:19Z">
       <class name="Academy.HomePage">
-        <test-method status="FAIL" signature="initialize()[pri:0, instance:Academy.HomePage@7eac9008]" name="initialize" is-config="true" duration-ms="0" started-at="2020-01-10T14:10:28Z" finished-at="2020-01-10T14:10:28Z">
+        <test-method status="FAIL" signature="initialize()[pri:0, instance:Academy.HomePage@7eac9008]" name="initialize" is-config="true" duration-ms="0" started-at="2020-01-23T15:57:19Z" finished-at="2020-01-23T15:57:19Z">
           <exception class="java.lang.NullPointerException">
             <full-stacktrace>
               <![CDATA[java.lang.NullPointerException
-	at resources.base.initializeDriver(base.java:60)
+	at resources.base.initializeDriver(base.java:35)
 	at Academy.HomePage.initialize(HomePage.java:23)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
@@ -44,7 +44,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initialize -->
-        <test-method status="SKIP" signature="basePageNavigation(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Academy.HomePage@7eac9008]" name="basePageNavigation" duration-ms="1" started-at="2020-01-10T14:10:28Z" data-provider="getData" finished-at="2020-01-10T14:10:28Z">
+        <test-method status="SKIP" signature="basePageNavigation(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Academy.HomePage@7eac9008]" name="basePageNavigation" duration-ms="1" started-at="2020-01-23T15:57:19Z" data-provider="getData" finished-at="2020-01-23T15:57:19Z">
           <params>
             <param index="0">
               <value>
@@ -65,7 +65,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- basePageNavigation -->
-        <test-method status="SKIP" signature="basePageNavigation(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Academy.HomePage@7eac9008]" name="basePageNavigation" duration-ms="0" started-at="2020-01-10T14:10:28Z" data-provider="getData" finished-at="2020-01-10T14:10:28Z">
+        <test-method status="SKIP" signature="basePageNavigation(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Academy.HomePage@7eac9008]" name="basePageNavigation" duration-ms="0" started-at="2020-01-23T15:57:19Z" data-provider="getData" finished-at="2020-01-23T15:57:19Z">
           <params>
             <param index="0">
               <value>
@@ -86,19 +86,19 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- basePageNavigation -->
-        <test-method status="SKIP" signature="teardown()[pri:0, instance:Academy.HomePage@7eac9008]" name="teardown" is-config="true" duration-ms="0" started-at="2020-01-10T14:10:28Z" finished-at="2020-01-10T14:10:28Z">
+        <test-method status="SKIP" signature="teardown()[pri:0, instance:Academy.HomePage@7eac9008]" name="teardown" is-config="true" duration-ms="0" started-at="2020-01-23T15:57:19Z" finished-at="2020-01-23T15:57:19Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
       </class> <!-- Academy.HomePage -->
     </test> <!-- Validating User login -->
-    <test name="Validating title in the Page" duration-ms="3" started-at="2020-01-10T19:10:28Z" finished-at="2020-01-10T19:10:28Z">
+    <test name="Validating title in the Page" duration-ms="4" started-at="2020-01-23T20:57:19Z" finished-at="2020-01-23T20:57:19Z">
       <class name="Academy.validateTitle">
-        <test-method status="FAIL" signature="initialize()[pri:0, instance:Academy.validateTitle@2925bf5b]" name="initialize" is-config="true" duration-ms="0" started-at="2020-01-10T14:10:28Z" finished-at="2020-01-10T14:10:28Z">
+        <test-method status="FAIL" signature="initialize()[pri:0, instance:Academy.validateTitle@2925bf5b]" name="initialize" is-config="true" duration-ms="0" started-at="2020-01-23T15:57:19Z" finished-at="2020-01-23T15:57:19Z">
           <exception class="java.lang.NullPointerException">
             <full-stacktrace>
               <![CDATA[java.lang.NullPointerException
-	at resources.base.initializeDriver(base.java:60)
+	at resources.base.initializeDriver(base.java:35)
 	at Academy.validateTitle.initialize(validateTitle.java:22)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
@@ -131,25 +131,25 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initialize -->
-        <test-method status="SKIP" signature="validateAppTitle()[pri:0, instance:Academy.validateTitle@2925bf5b]" name="validateAppTitle" duration-ms="1" started-at="2020-01-10T14:10:28Z" finished-at="2020-01-10T14:10:28Z">
+        <test-method status="SKIP" signature="validateAppTitle()[pri:0, instance:Academy.validateTitle@2925bf5b]" name="validateAppTitle" duration-ms="0" started-at="2020-01-23T15:57:19Z" finished-at="2020-01-23T15:57:19Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateAppTitle -->
-        <test-method status="SKIP" signature="teardown()[pri:0, instance:Academy.validateTitle@2925bf5b]" name="teardown" is-config="true" duration-ms="0" started-at="2020-01-10T14:10:28Z" finished-at="2020-01-10T14:10:28Z">
+        <test-method status="SKIP" signature="teardown()[pri:0, instance:Academy.validateTitle@2925bf5b]" name="teardown" is-config="true" duration-ms="0" started-at="2020-01-23T15:57:19Z" finished-at="2020-01-23T15:57:19Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
       </class> <!-- Academy.validateTitle -->
     </test> <!-- Validating title in the Page -->
-    <test name="App Testing" duration-ms="0" started-at="2020-01-10T19:10:28Z" finished-at="2020-01-10T19:10:28Z">
+    <test name="App Testing" duration-ms="0" started-at="2020-01-23T20:57:19Z" finished-at="2020-01-23T20:57:19Z">
     </test> <!-- App Testing -->
-    <test name="Validating navigation Bar" duration-ms="3" started-at="2020-01-10T19:10:28Z" finished-at="2020-01-10T19:10:28Z">
+    <test name="Validating navigation Bar" duration-ms="2" started-at="2020-01-23T20:57:19Z" finished-at="2020-01-23T20:57:19Z">
       <class name="Academy.validateNavigationBar">
-        <test-method status="FAIL" signature="initialize()[pri:0, instance:Academy.validateNavigationBar@394df057]" name="initialize" is-config="true" duration-ms="0" started-at="2020-01-10T14:10:28Z" finished-at="2020-01-10T14:10:28Z">
+        <test-method status="FAIL" signature="initialize()[pri:0, instance:Academy.validateNavigationBar@394df057]" name="initialize" is-config="true" duration-ms="0" started-at="2020-01-23T15:57:19Z" finished-at="2020-01-23T15:57:19Z">
           <exception class="java.lang.NullPointerException">
             <full-stacktrace>
               <![CDATA[java.lang.NullPointerException
-	at resources.base.initializeDriver(base.java:60)
+	at resources.base.initializeDriver(base.java:35)
 	at Academy.validateNavigationBar.initialize(validateNavigationBar.java:26)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
@@ -182,11 +182,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initialize -->
-        <test-method status="SKIP" signature="validateAppNavBar()[pri:0, instance:Academy.validateNavigationBar@394df057]" name="validateAppNavBar" duration-ms="1" started-at="2020-01-10T14:10:28Z" finished-at="2020-01-10T14:10:28Z">
+        <test-method status="SKIP" signature="validateAppNavBar()[pri:0, instance:Academy.validateNavigationBar@394df057]" name="validateAppNavBar" duration-ms="0" started-at="2020-01-23T15:57:19Z" finished-at="2020-01-23T15:57:19Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateAppNavBar -->
-        <test-method status="SKIP" signature="teardown()[pri:0, instance:Academy.validateNavigationBar@394df057]" name="teardown" is-config="true" duration-ms="0" started-at="2020-01-10T14:10:28Z" finished-at="2020-01-10T14:10:28Z">
+        <test-method status="SKIP" signature="teardown()[pri:0, instance:Academy.validateNavigationBar@394df057]" name="teardown" is-config="true" duration-ms="0" started-at="2020-01-23T15:57:19Z" finished-at="2020-01-23T15:57:19Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->

@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="2.509" tests="10" errors="0" skipped="7" failures="3">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="2.084" tests="10" errors="0" skipped="7" failures="3">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_211\jre\bin"/>
     <property name="java.vm.version" value="25.211-b12"/>
-    <property name="browser" value="chromeheadless"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
-    <property name="maven.multiModuleProjectDirectory" value="C:\Users\Gadotey\eclipse\Vanila"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\Users\Gadotey\GitDemo"/>
     <property name="java.vendor.url" value="http://java.oracle.com/"/>
     <property name="path.separator" value=";"/>
     <property name="guice.disable.misplaced.annotation.check" value="true"/>
@@ -17,7 +16,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.os.patch.level" value=""/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="user.dir" value="C:\Users\Gadotey\eclipse\Vanila"/>
+    <property name="user.dir" value="C:\Users\Gadotey\GitDemo"/>
     <property name="java.runtime.version" value="1.8.0_211-b12"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
     <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_211\jre\lib\endorsed"/>
@@ -46,7 +45,7 @@
     <property name="java.vm.specification.version" value="1.8"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_211\jre"/>
-    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher test -Dbrowser=chromeheadless"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher test"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
     <property name="user.language" value="en"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -65,11 +64,11 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase name="initialize" classname="Academy.HomePage" time="1.357">
+  <testcase name="initialize" classname="Academy.HomePage" time="1.194">
     <failure type="java.lang.NullPointerException">java.lang.NullPointerException
 	at Academy.HomePage.initialize(HomePage.java:23)
 </failure>
-    <system-out><![CDATA[chromeheadless
+    <system-out><![CDATA[null
 ]]></system-out>
   </testcase>
   <testcase name="basePageNavigation" classname="Academy.HomePage" time="0">
@@ -81,11 +80,12 @@
   <testcase name="teardown" classname="Academy.HomePage" time="0">
     <skipped/>
   </testcase>
-  <testcase name="initialize" classname="Academy.validateTitle" time="0.049">
+  <testcase name="initialize" classname="Academy.validateTitle" time="0.038">
     <failure type="java.lang.NullPointerException">java.lang.NullPointerException
 	at Academy.validateTitle.initialize(validateTitle.java:22)
 </failure>
-    <system-out><![CDATA[chromeheadless
+    <system-out><![CDATA[This mark the new Finish
+null
 ]]></system-out>
   </testcase>
   <testcase name="validateAppTitle" classname="Academy.validateTitle" time="0">
@@ -94,11 +94,13 @@
   <testcase name="teardown" classname="Academy.validateTitle" time="0">
     <skipped/>
   </testcase>
-  <testcase name="initialize" classname="Academy.validateNavigationBar" time="0.054">
+  <testcase name="initialize" classname="Academy.validateNavigationBar" time="0.059">
     <failure type="java.lang.NullPointerException">java.lang.NullPointerException
 	at Academy.validateNavigationBar.initialize(validateNavigationBar.java:26)
 </failure>
-    <system-out><![CDATA[chromeheadless
+    <system-out><![CDATA[This mark the new Finish
+This mark the new Finish
+null
 ]]></system-out>
   </testcase>
   <testcase name="validateAppNavBar" classname="Academy.validateNavigationBar" time="0">
