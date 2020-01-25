@@ -16,4 +16,26 @@
       </class> <!-- Academy.HomePage -->
     </classes>
   </test> <!-- Validating User login(failed) -->
+  <test thread-count="5" name="Validating title in the Page(failed)">
+    <classes>
+      <class name="Academy.validateTitle">
+        <methods>
+          <include name="validateAppTitle"/>
+          <include name="initialize"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- Academy.validateTitle -->
+    </classes>
+  </test> <!-- Validating title in the Page(failed) -->
+  <test thread-count="5" name="Validating navigation Bar(failed)">
+    <classes>
+      <class name="Academy.validateNavigationBar">
+        <methods>
+          <include name="initialize"/>
+          <include name="validateAppNavBar"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- Academy.validateNavigationBar -->
+    </classes>
+  </test> <!-- Validating navigation Bar(failed) -->
 </suite> <!-- Failed suite [Suite] -->
